@@ -1,0 +1,43 @@
+{
+	"URL_servidor":"http://www.beachpalace360.ml/api",
+	"URL_video":"rtmp://streamclaro360.ml",
+	"App_nombre":"hometocloud",
+	"Tienda_token":"A1M7Xgh1RauDjvsI9EOf",
+	"Nombreequipo":"dell-4073135",
+	"Ubicacion_tienda":"Hotel Beach Palace",
+	"Resolucion":"-2:600",
+	"URL_face":"http://172.17.0.3:8444/api/id",
+	"Tiempo_Espera" : 30,
+	"Tiempo_Actualiza" : 5,
+	"deteccion_minima" : 0.40,
+	"deteccion_media" : 0.50,
+	"deteccion_maxima" : 0.60,
+	"protocolo":
+	{
+		"Axis":"rtsp://%s:%s@%s/axis-media/media.amp?camera=%s&videocodec=jpeg",
+		"HikVision":"rtsp://%s:%s@%s/Streaming/channels/%s01",
+		"Sony":"rtsp://%s:%s@%s/media/video%s",
+		"Brickcom":"rtsp://%s:%s@%s/channel%s",
+		"Dahua":"rtsp://%s:%s@%s/cam/realmonitor?channel=%s&subtype=1",
+		"vivotek":"rtsp://%s:%s@%s/live.sdp?channel=%s"
+	},
+	"camaras":
+	{
+		"1":
+		{
+			"IPcamara":"172.16.3.46",
+			"Usuario":"root",
+			"Contra":"Gb659w&3NrNy",
+			"NumeroCamara":1,
+			"MarcaCamara":"Axis",
+			"transmicion":true,
+			"Contador":false,
+			"Mapacalor":false,
+			"Facedetect":false,
+			"operacion":"P5534",
+			"info_camara":"Playa", 
+			"tiempo_map":29,
+			"puntos":[[0, 150],[640, 150]]
+		}
+}
+}

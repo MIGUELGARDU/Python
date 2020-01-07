@@ -1,0 +1,50 @@
+{
+    "Carpeta_enrola": "/home/dell/Documentos/proyectos/General_hilos/Microsoft_api/Rostros", 
+    "Endpoint": "https://westcentralus.api.cognitive.microsoft.com/face/v1.0", 
+    "Enrolados": {
+        "8184": {
+            "personId": "771ead17-5c6d-4a18-a6b8-b27f7994a577"
+        }, 
+        "8185": {
+            "personId": "b85948ee-c79f-450b-ad00-b0d16a17ad9f"
+        }, 
+        "8186": {
+            "personId": "57754870-07b6-492c-a0d5-0d88f1c8ea60"
+        }, 
+        "8187": {
+            "personId": "e1224e3b-4792-47ec-9479-6d6fb89a7047"
+        }, 
+        "8188": {
+            "personId": "01b0136f-5295-4099-9000-2ccd92fdbe09"
+        }, 
+        "8189": {
+            "personId": "1dc042f9-4427-47ad-a11c-aa8aa0b3e886"
+        }, 
+        "8190": {
+            "personId": "f31fe752-1f7c-4cd2-b2b2-fd42daa33404"
+        }, 
+        "8191": {
+            "personId": "1c3ae2a7-bbbc-4a1d-8d00-a300ed1f22da"
+        }, 
+        "8192": {
+            "personId": "c0bac864-57d0-4908-93d4-c8faeecc1b9e"
+        }, 
+        "8194": {
+            "personId": "e75f4e4f-31ce-4f4b-bb0e-3b27d1152f58"
+        }, 
+        "8195": {
+            "personId": "f1b80c3a-be8f-4467-9303-562776c5b9fb"
+        }, 
+        "8196": {
+            "personId": "87ae3aa7-81ac-4814-8c4f-7559d4106c5d"
+        }, 
+        "8197": {
+            "personId": "ea26f2f4-28fb-4261-9ec8-a60294dc4cd5"
+        }
+    }, 
+    "Id_grupo_faces": "2025e45a-e155-11e8-b6af-b8ca3a904252", 
+    "Key_Subscription": [
+        "71ef9c4985e44293a11c70851c827b8e", 
+        "24bbab249dd44d5e9b56cd3b7c40c742"
+    ]
+}
